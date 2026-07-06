@@ -9,8 +9,8 @@ My target is to secure a Tier 1 SOC Internship by late August.
 ## 🎯 Current Status & Milestones
 - [x] **Foundational Theory:** Aligned with ISC2 CC Curriculum (Completed Coursework)
 - [x] **Core Linux Infrastructure:** NDG Linux Unhatched (Completed)
-- [/] **Network & Web Systems:** TryHackMe Pre-Security Path (Premium Unlocked - Active Progress!)
-- [ ] **Incident Triage & Analysis:** TryHackMe SOC Level 1 Path (Upcoming)
+- [x] **Network & Web Systems:** TryHackMe Pre-Security Path (Completed)
+- [/] **Incident Triage & Analysis:** TryHackMe SOC Level 1 Path (Active Progress!)
 
 ---
 
